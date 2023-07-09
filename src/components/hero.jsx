@@ -5,15 +5,15 @@ const Hero = () => {
   const socialMedia = [
     {
       initial: "LinkedIn",
-      link: "https://facebook.com",
+      link: "https://www.linkedin.com/in/bang-nguyen-750802273/",
     },
     {
       initial: "Github",
-      link: "https://twitter.com",
+      link: "https://github.com/Bangnguyen2206",
     },
     {
       initial: "Instagram",
-      link: "https://instagram.com",
+      link: "https://www.instagram.com/tuyet4902/",
     },
   ];
 
