@@ -1,37 +1,38 @@
 export default [
    {
       year: 'Today',
-      title: 'YouTube Content Creator',
-      duration: '6 years',
+      title: 'Frontend Developer',
+      duration: 'present',
       details: 
-         'My humble attempt at building my version of the digital world one step at a time by documenting my coding journey and creating software engineering and computer science content to help those coming behind me.',
+         'I have researched Nuxt.JS and Prisma. I have experience as a Frontend developer, but I am also skilled in back-end development. I enjoyed working with all members in my team about the stack and I enjoyed building out user- friendly efficient websites.',
    },
    {
-		year: 'Today',
-		title: 'Solo Indie Developer',
-		duration: '4 years',
+		year: '01/2022 - 04/2023',
+		title: 'RYG Labs',
+		duration: '1 year 7 mos',
 		details:
-			"I'm a solo indie developer building software for myself and clients to showcase on YouTube. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.",
+			'Designed and implemented web applications in the marketplace for non-fungible tokens to be sold directly at a fixed price or through an auction using React, Java and Microservices. Integrated multiple applications and research on front-end trending, best practices, and good technologies to suggest and apply to the site to enhance user experience. Implement new tasks and integrate with the backend to build everything a user sees and interacts with on a website.',
+	},
+   {
+		year: '10/2022 - 01/2023',
+		title: 'HSpace',
+		duration: '3 mos',
+		details:
+			"Be responsible for troubleshooting application-related issues and ensuring/maintaining high performance and browser compatibility. Participate in development processes such as the documentation process, requirements analysis, and design.",
+	},
+	
+	{
+		year: '12/2020 - 11/2021',
+		title: "CMC Global",
+		duration: '1 year',
+		details:
+			'Designed and implemented solutions for small and medium-sized business services which integrated applications that support office management, sales management, and human resource managemen. Implement new tasks | Study requirement | Fix bugs | Peer-to-peer code review | Daily meeting | Develop responsive, web-based user interfaces | Ensure the technical feasibility of UI/UX designs.'
 	},
 	{
-		year: '2019',
-		title: 'Software Engineer',
-		duration: '2 years',
-		details:
-			'I helped build an enterprise application for a Fortune 500 company in an Agile team setting. Our tech stack consisted of TypeSciprt, Angular, Java, Gradle, and a handful of other languages and tools.',
-	},
-	{
-		year: '2018',
-		title: "Bachelor's Degree in Computer Science",
-		duration: '5 years',
-		details:
-			'I pursued the knowledge that a computer science degree had to offer. I learned about computer architecture, computer science theory, an array of programming, and aspects of artificial intelligence.',
-	},
-	{
-		year: '2013',
-		title: 'First Line of Code',
+		year: '2020 - 2021',
+		title: 'CyberSoft Academy',
 		duration: 'the beginning',
 		details:
-			"I wrote my first line of real code that started this journey into digital craftsmanship that I never could've imagined, especially as someone who never saw themselves as anything other than a blue collar worker.",
+			" I have joined the course Frontend at Cybersoft Academy and I have finished and received a frontend certificate after 6 months with many solo projects. For the entirety of the time at the academy this really gave me full ownership over everything from the design decisions to the actual coding of it",
 	},
 ]
