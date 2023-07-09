@@ -102,7 +102,7 @@ function App() {
       <Timeline/>
       <Services />
       <Testimonials />
-       <Section/>
+      <Section/>
       <Hire />
       <Contact />
       <Footer/>

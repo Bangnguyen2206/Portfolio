@@ -5,20 +5,20 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 const Sidebar = ({ show, handleSidebar }) => {
   const sidebarMenu = [
-    {
+     {
       name: "Home",
       link: "#",
     },
     {
-      name: "About",
-      link: "#about",
-    },
-    {
-      name: "Services",
+      name: "Experiences",
       link: "#services",
     },
     {
-      name: "Testimonials",
+      name: "Education",
+      link: "#timeline",
+    },
+    {
+      name: "About",
       link: "#testimonials",
     },
   ];

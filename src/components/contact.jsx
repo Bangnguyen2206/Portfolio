@@ -73,9 +73,9 @@ const Contact = () => {
                 placeholder="Enter your name..."
                 className="w-full rounded-md bg-dark px-5 py-4 pr-11 font-poppins text-[12px] font-semibold text-input placeholder:text-secondary md:text-sm lg:text-base"
                 onChange={(event) =>
-                  onFormUpdate('from_name', event.target.value)
+                  onFormUpdate('to_name', event.target.value)
                 }
-                name="from_name"
+                name="to_name"
               />
               <FontAwesomeIcon
                 icon={faUser}
