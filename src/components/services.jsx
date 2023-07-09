@@ -10,19 +10,19 @@ const Services = () => {
     {
       name: 'Website Development',
       description:
-        'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+        'Modern & mobile-ready website built with latest technologies that will help you reach all of your goals.',
       icon: faDisplay,
     },
     {
-      name: 'Mobile App Development',
+      name: 'Backend Development',
       description:
-        'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+        'Databases, back-end logic, application programming interface (APIs), architecture, and servers.',
       icon: faMobileScreen,
     },
     {
-      name: 'Game Development',
+      name: 'Experience Sharing',
       description:
-        'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+        'Contributing valuable ideas to optimize your services based on the experience of working in fields.',
       icon: faGamepad,
     },
   ]

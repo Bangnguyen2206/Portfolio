@@ -98,7 +98,7 @@ const Contact = () => {
             <div className="relative mb-6">
               <textarea
                 rows={3}
-                placeholder="Tell me details about your project..."
+                placeholder="Tell me details about your thinking..."
                 className="h-28 w-full rounded-md bg-dark px-5 py-4 pr-11 font-poppins text-[12px] font-semibold text-input placeholder:text-secondary md:h-full md:text-sm lg:text-base"
                 onChange={(event) =>
                   onFormUpdate('message', event.target.value)

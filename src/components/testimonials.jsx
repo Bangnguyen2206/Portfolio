@@ -13,7 +13,7 @@ const Testimonials = () => {
           <div className="py-6 sm:py-8">
             <div className="mb-4 text-[15px] font-medium md:mb-10 md:text-[22px] lg:text-[32px]">
               <span>
-                Bang helped us deliver a high performance application for our
+                Bang helped us deliver a high performance application for your
                 company
               </span>
             </div>
