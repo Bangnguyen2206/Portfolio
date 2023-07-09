@@ -17,10 +17,10 @@ const Section = () => {
             }`}
           >
             <div className="space-y-4">
-              <h3 className="text-2xl font-bold leadi sm:text-5xl">
+              <h3 className="text-2xl font-bold leadi sm:text-5xl text-white">
                 My Skills
               </h3>
-              <p className="max-w-2xl dark:text-gray-400">
+              <p className="max-w-2xl text-gray-400">
                 Bringing client’s vision into reality by providing high quality products in the shortest time!
               </p>
             </div>

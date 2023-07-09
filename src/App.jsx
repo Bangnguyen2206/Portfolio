@@ -91,7 +91,7 @@ function App() {
   }
 
   return (
-    <div className={`${theme === 'dark' ? 'dark' : ''}`}>
+    <div>
       <Sidebar show={show} handleSidebar={handleSidebar} />
       <div className="bg-hero bg-contain bg-center bg-no-repeat md:bg-cover">
         <div className="mx-auto max-w-7xl">
